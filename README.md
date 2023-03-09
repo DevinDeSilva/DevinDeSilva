@@ -18,5 +18,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevinDeSilva&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=DevinDeSilva&icon=0&color=2)](https://visitcount.itsvg.in)
