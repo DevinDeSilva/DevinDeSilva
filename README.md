@@ -14,6 +14,6 @@
 ![Devins's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevinDeSilva&count_private=true&count_private=true&show_icons=true&theme=merko)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevinDeSilva&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DevinDeSilva&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=nipdep&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevinDeSilva&icon=0&color=2)](https://visitcount.itsvg.in)
