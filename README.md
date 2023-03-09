@@ -13,6 +13,9 @@
 # 📊 GitHub Stats:
 ![Devins's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevinDeSilva&count_private=true&count_private=true&show_icons=true&theme=merko)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevinDeSilva&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevinDeSilva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevinDeSilva&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
